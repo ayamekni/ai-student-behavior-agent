@@ -1,0 +1,7 @@
+user_id,question_id,timestamp,response_time,is_correct,topic
+u001,q101,2025-07-21 10:01:00,12.4,False,fractions
+u001,q102,2025-07-21 10:03:00,7.1,True,fractions
+u001,q103,2025-07-21 10:05:00,15.2,False,geometry
+u001,q104,2025-07-21 10:07:00,2.5,False,geometry
+u001,q105,2025-07-21 10:09:00,3.0,True,geometry
+u001,q106,2025-07-21 10:11:00,1.8,False,geometry
